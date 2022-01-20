@@ -29,9 +29,9 @@ import Canvas from "@upadhyayprakash/react-canvas";
   {/* children */}
 </Canvas>
 ```
-check the `props` list for all the available options.
+check the [props list](https://github.com/upadhyayprakash/react-canvas#props-list) for all the available options.
 
-#### `props` list
+#### props list
 - `toolbar`: `boolean (default: true)`
 display canvas tools to interact. Eg. pencil, eraser, selection etc.
 - `background`: `string`
@@ -45,6 +45,9 @@ Check the [LICENSE](https://github.com/upadhyayprakash/react-canvas/blob/ce07595
 
 #### Inspiration for Smooth Sketching
 
-- Forking from: https://github.com/dulnan/lazy-brush
-- Initial Reading: https://developpaper.com/canvas-advancement-how-to-draw-a-smooth-curve/
-- Alternate Approach: https://jsfiddle.net/x2519uzf/
+- Forking from:
+https://github.com/dulnan/lazy-brush
+- Initial Reading:
+https://developpaper.com/canvas-advancement-how-to-draw-a-smooth-curve/
+- Alternate Approach:
+https://jsfiddle.net/x2519uzf/
